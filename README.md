@@ -1,2 +1,2 @@
 # Face-Detection-App
- Face detection app
+ Face detection app 😊
